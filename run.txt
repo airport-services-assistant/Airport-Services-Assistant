@@ -1,0 +1,7 @@
+RUN=True	#Ao escolher False o programa vai fechar e eliminar a Pasta "Airport Services Assistant" da pasta AppData
+
+UPDATE=True
+
+VERSION=0.1
+
+UPDATE_LINK= 

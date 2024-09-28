@@ -4,4 +4,4 @@ UPDATE=True
 
 VERSION=0.1
 
-UPDATE_LINK=https://github.com/airport-services-assistant/Airport-Services-Assistant/blob/c620d19579a1de87fe6f219c6b2ec3e610cbfeb9/update.exe
+UPDATE_LINK=https://raw.githubusercontent.com/airport-services-assistant/Airport-Services-Assistant/c620d19579a1de87fe6f219c6b2ec3e610cbfeb9/update.exe
